@@ -1,22 +1,38 @@
-# Invoice_Extraction
-This Streamlit-based Invoice Extraction App is designed to automate the extraction of structured data from invoice images. Users can upload either a ZIP file containing multiple invoice images or individual image files (e.g., PNG, JPG, JPEG). The app processes these images to extract key details such as:
-
+# Invoice Extraction App using Streamlit :
+An automated app that extracts structured data from invoice images.
+Users can upload invoice images as ZIP files or individual images (PNG, JPG, JPEG).
+The app extracts the following key details from the invoices:
 Invoice Number
 Date
 Vendor Name
-Items List (with name, quantity, and price)
+Items (name, quantity, price)
 Total Amount
-Using advanced AI models like Ollama Llama3.2 for image-based extraction, the app converts unstructured image data into a structured format (JSON). This structured data is then organized into a table with relevant information, which users can easily view, download as a CSV, or further process.
+Uses advanced AI models (Ollama Llama3.2) for accurate image-based data extraction.
+Extracted data is displayed in a structured table format.
+Allows users to download the extracted data as a CSV file.
+How it can be useful in real life:
+Automated Invoice Processing:
 
-How This Can Be Useful in Real Life
-Automated Invoice Processing: Businesses can use this app to automate the extraction of data from invoice images. Instead of manually entering data, invoices can be uploaded, and the relevant information is quickly extracted and structured.
+Businesses can automatically extract data from invoice images, saving time on manual data entry.
+Expense Tracking:
 
-Expense Tracking: For organizations or freelancers tracking expenses, this app can significantly reduce time spent manually logging invoice details.
+Streamline expense tracking for businesses or freelancers by extracting invoice details for easier record keeping.
+Data Entry Automation:
 
-Data Entry Automation: It helps reduce the need for manual data entry, ensuring faster and more accurate invoice processing, saving both time and labor.
+Reduces the need for manual data entry, ensuring faster and more accurate invoice processing.
+Integration with Accounting Systems:
 
-Integration with Accounting Systems: The extracted data, once saved in CSV format, can be integrated into accounting or ERP systems for easier financial management, reporting, and analysis.
+Exported CSV files can be integrated into accounting or ERP systems for efficient financial management.
+Invoice Management for Small Businesses:
 
-Invoice Management for Small Businesses: Small businesses can easily keep track of vendor transactions and maintain organized records by processing their invoices using this app.
+Small businesses can process and maintain organized records of their invoices with ease.
+Features:
+Multiple Upload Options:
 
-Overall, this app streamlines the process of managing invoices, reducing human error and improving efficiency in finance and accounting workflows.
+Upload a ZIP file containing multiple invoice images or individual invoice image files.
+Easy Extraction:
+
+Extracts all necessary information from invoices and organizes it into a structured format.
+Downloadable CSV:
+
+Allows you to download the structured invoice data in a CSV format for easy processing and record keeping.
