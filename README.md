@@ -2,11 +2,11 @@
 An automated app that extracts structured data from invoice images.
 Users can upload invoice images as ZIP files or individual images (PNG, JPG, JPEG).
 The app extracts the following key details from the invoices:
-Invoice Number
-Date
-Vendor Name
-Items (name, quantity, price)
-Total Amount
+# Invoice Number //
+# Date //
+# Vendor Name  //
+# Items (name, quantity, price) //
+# Total Amount //
 Uses advanced AI models (Ollama Llama3.2) for accurate image-based data extraction.
 Extracted data is displayed in a structured table format.
 Allows users to download the extracted data as a CSV file.
