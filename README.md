@@ -36,3 +36,12 @@ Extracts all necessary information from invoices and organizes it into a structu
 Downloadable CSV:
 
 Allows you to download the structured invoice data in a CSV format for easy processing and record keeping.
+
+
+
+## Running the App Locally:
+Clone or download this repository to your local machine.
+Navigate to the directory containing the app.
+Run the following command to start the Streamlit app:
+
+## streamlit run invoice_extraction_app.py
