@@ -10,23 +10,23 @@ Users can upload invoice images as ZIP files or individual images (PNG, JPG, JPE
 Uses advanced AI models (Ollama Llama3.2) for accurate image-based data extraction.
 Extracted data is displayed in a structured table format.
 Allows users to download the extracted data as a CSV file.
-How it can be useful in real life:
-Automated Invoice Processing:
 
-Businesses can automatically extract data from invoice images, saving time on manual data entry.
+# How it can be useful in real life:
+# 1. Automated Invoice Processing:
+
+# 2. Businesses can automatically extract data from invoice images, saving time on manual data entry.
 Expense Tracking:
 
-Streamline expense tracking for businesses or freelancers by extracting invoice details for easier record keeping.
+# 3. Streamline expense tracking for businesses or freelancers by extracting invoice details for easier record keeping.
 Data Entry Automation:
 
-Reduces the need for manual data entry, ensuring faster and more accurate invoice processing.
-Integration with Accounting Systems:
+# 4. Reduces the need for manual data entry, ensuring faster and more accurate invoice processing. Integration with Accounting Systems:
 
-Exported CSV files can be integrated into accounting or ERP systems for efficient financial management.
-Invoice Management for Small Businesses:
+# 5. Exported CSV files can be integrated into accounting or ERP systems for efficient financial management. 
 
+# 6. Invoice Management for Small Businesses:
 Small businesses can process and maintain organized records of their invoices with ease.
-Features:
+# Features:
 Multiple Upload Options:
 
 Upload a ZIP file containing multiple invoice images or individual invoice image files.
